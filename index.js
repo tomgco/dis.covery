@@ -1,1 +1,1 @@
-module.exports = require('./lib/discovery.js');
+module.exports = require('./lib/discovery.js').discovery;
