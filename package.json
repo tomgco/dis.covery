@@ -1,7 +1,7 @@
 {
   "author": "Tom Gallacher <tomgallacher23@gmail.com> (tomg.co)",
   "name": "dis.covery",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
@@ -9,7 +9,8 @@
     "node": "0.6.X"
   },
   "dependencies": {
-      "mdns": "0.0.X"
+    "mdns": "0.0.X"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "optionalDependencies": {}
 }
